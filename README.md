@@ -19,6 +19,7 @@ That's what you can do with our password manager website!
 
 Made by:
 
+
 Bilal Hammi - Front-end/Scrum Master/Back-end
 
 Nooman Amer - Front-end
